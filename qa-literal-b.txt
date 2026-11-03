@@ -1,0 +1,1 @@
+literal-b-simple-bypass: fresh Windows install from exact source B 2343df83a3a26ae83bc66d4009dd67a913eeea4e, installer --mode bypass, actual runtime permissionMode bypassPermissions, beads true.
